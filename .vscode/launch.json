@@ -13,3 +13,6 @@
         }
     ]
 }
+{
+  "detail": "Only jpg, jpeg, png and pdf files allowed"
+}
