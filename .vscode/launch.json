@@ -16,3 +16,11 @@
 {
   "detail": "Only jpg, jpeg, png and pdf files allowed"
 }
+{
+  "filename": "test.jpg",
+  "saved_as": "1710000000_test.jpg",
+  "storage_path": "uploads/1710000000_test.jpg",
+  "size": 12345,
+  "content_type": "image/jpeg",
+  "message": "File stored locally successfully ✅"
+}
